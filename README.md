@@ -7,12 +7,12 @@
 *   **TFMix: A Robust Time-Frequency Mixing Approach for Domain Generalization in Specific Emitter Identification**
     <br> *S. Wang, H. Wan, F. Wang, Y. Wang, Y. Lin and G. Gui*
     <br> 🏛️ *IEEE Transactions on Cognitive Communications and Networking*, 2025.
-    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://doi.org/10.1109/TCCN.2025.3541723) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/frownean/TFMix)
+    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://doi.org/10.1109/TCCN.2025.3541723) [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/frownean/TFMix)
 
 *   **Open-Set Automatic Modulation Classification Using Deep Metric Learning and Openmax**
     <br> *C. Ai et al.*
     <br> 🏛️ *2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)*, Oslo, Norway, 2025.
-    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://doi.org/10.1109/VTC2025-Spring65109.2025.11174756) [![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/CamelliaCode/TFMix)
+    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://doi.org/10.1109/VTC2025-Spring65109.2025.11174756) [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CamelliaCode/TFMix)
 
 *   **Avoid Shortcuts: Enhancing Channel-Robust Specific Emitter Identification via Single-Source Domain Generalization**
     <br> *Y. Wang, T. Ohtsuki, Z. Sun, D. Niyato, X. Wang and G. Gui*
