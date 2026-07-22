@@ -6,7 +6,7 @@
 *   **Interpretability-Oriented UAV Recognition via Frequency-Aware Networks: A Coarse-to-Fine Framework for Enhanced Accuracy and Insight**
     <br> *Gejiacheng Lu, Shufei Wang, Tomoaki Ohtsuki, Hikmet Sari, Guan Gui*
     <br> 🏛️ *IEEE Transactions on Information Forensics and Security*, 2026.
-    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](10.1109/TIFS.2026.3677579) [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Logge-cn/SS-SPAL)
+    <br> [![Paper](https://img.shields.io/badge/Paper-IEEE-blue)](https://doi.org/10.1109/TIFS.2026.3677579) [![Code](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Logge-cn/SS-SPAL)
 ## 📅 2025 
 
 *   **TFMix: A Robust Time-Frequency Mixing Approach for Domain Generalization in Specific Emitter Identification**
